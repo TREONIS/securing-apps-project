@@ -1,5 +1,5 @@
 
-= Securing Applications and Services Guide
+= Services Guide
 
 image:images/keycloak_logo.png[alt="Keycloak"]
 
